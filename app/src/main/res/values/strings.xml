@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mary\'s Guessing Game</string>
+    <string name="enter_number">enter a number between 1 and 1000</string>
+    <string name="guess">Guess!</string>
+    <string name="text_view">TextView</string>
+    <string name="fireworks">fireworks</string>
+    <string name="play_again">Play Again?</string>
+    <string name="close">Close</string>
+</resources>
